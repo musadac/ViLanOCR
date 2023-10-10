@@ -31,6 +31,10 @@ To set up VilanOCR on your system, follow these steps:
 
 To download pretrained weights you can download from huggingface from the link [VilanOCR Weights](https://huggingface.co/musadac) 
 
+## Deploy OCR for your Use Case 
+
+To download a sample use case flask app  weights you can download from github using link [Flask VilanOCR](https://github.com/musadac/docigize-backend.git) 
+
 ## LICENSE
    
 VilanOCR is licensed under the MIT License. For more details, please refer to the LICENSE file.
